@@ -17,7 +17,7 @@ author_profile: true
 
 # Publications and Preprints ([Google Scholar Profile](https://scholar.google.com/citations?user=gsxxnVoAAAAJ&hl=en))
 
-**Numerical Approximation of High-Dimensional Gibbs Distributions Using the Functional Hierarchical Tensor** **[[link]](https://arxiv.org/abs/2501.17143)**<br>
+**Approximation of High-Dimensional Gibbs Distributions with Functional Hierarchical Tensors** **[[link]](https://arxiv.org/abs/2501.17143)**<br>
 **Nan Sheng**, Xun Tang, and Lexing Ying.<br>
 *arXiv preprint* arXiv:2501.17143 (January 2025).
 
